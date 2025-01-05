@@ -8,7 +8,7 @@ This dashboard is designed to give a comprehensive view of Blinkit’s sales per
 
 - **Average Rating**: **3.9** average rating, reflecting overall customer satisfaction across various products and services.
 
-- **Outlet Performance**: Insights into sales performance by outlet, including top-performing outlets like **BasteBushinent**.
+- **Outlet Performance**: Insights into sales performance by outlet, including top-performing outlets like **Outlet Establishment**.
 
 - **Average Sales per Item**: **140.99** average sales per item, helping understand the sales volume per product and identify high-performing items.
 
